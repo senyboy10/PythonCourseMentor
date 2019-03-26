@@ -1,0 +1,64 @@
+Brazil,3,Croatia,1,Brazil
+Mexico,1,Cameroon,0,Mexico
+Spain,1,Netherlands,5,Netherlands
+Chile,3,Australia,1,Chile
+Colombia,3,Greece,0,Colombia
+Ivory Coast,2,Japan,1,Ivory Coast
+Uruguay,1,Costa Rica,3,Costa Rica
+England,1,Italy,2,Italy
+Switzerland,2,Ecuador,1,Switzerland
+France,3,Honduras,0,France
+Argentina,2,Bosnia and Herzegovina,1,Argentina
+Iran,0,Nigeria,0,Draw
+Germany,4,Portugal,0,Germany
+Ghana,1,USA,2,USA
+Belgium,2,Algeria,1,Belgium
+Russia,1,Korea Republic,1,Draw
+Brazil,0,Mexico,0,Draw
+Cameroon,0,Croatia,4,Croatia
+Spain,0,Chile,2,Chile
+Australia,2,Netherlands,3,Netherlands
+Colombia,2,Ivory Coast,1,Colombia
+Japan,0,Greece,0,Draw
+Uruguay,2,England,1,Uruguay
+Italy,0,Costa Rica,1,Costa Rica
+Switzerland,2,France,5,France
+Honduras,1,Ecuador,2,Ecuador
+Argentina,1,Iran,0,Argentina
+Nigeria,1,Bosnia and Herzegovina,0,Nigeria
+Germany,2,Ghana,2,Draw
+USA,2,Portugal,2,Draw
+Belgium,1,Russia,0,Belgium
+Korea Republic,2,Algeria,4,Algeria
+Cameroon,1,Brazil,4,Brazil
+Croatia,1,Mexico,3,Mexico
+Australia,0,Spain,3,Spain
+Netherlands,2,Chile,0,Netherlands
+Japan,1,Colombia,4,Colombia
+Greece,2,Ivory Coast,1,Greece
+Italy,0,Uruguay,1,Uruguay
+Costa Rica,0,England,0,Draw
+Honduras,0,Switzerland,3,Switzerland
+Ecuador,0,France,0,Draw
+Nigeria,2,Argentina,3,Argentina
+Bosnia and Herzegovina,3,Iran,1,Bosnia and Herzegovina
+USA,0,Germany,1,Germany
+Portugal,2,Ghana,1,Portugal
+Korea Republic,0,Belgium,1,Belgium
+Algeria,1,Russia,1,Draw
+Brazil,1,Chile,1,Brazil
+Colombia,2,Uruguay,0,Colombia
+Netherlands,2,Mexico,1,Netherlands
+Costa Rica,1,Greece,1,Costa Rica
+France,2,Nigeria,0,France
+Germany,2,Algeria,1,Germany
+Argentina,1,Switzerland,0,Argentina
+Belgium,2,USA,1,Belgium
+Brazil,2,Colombia,1,Brazil
+France,0,Germany,1,Germany
+Netherlands,0,Costa Rica,0,Netherlands
+Argentina,1,Belgium,0,Argentina
+Brazil,1,Germany,7,Germany
+Netherlands,0,Argentina,0,Argentina
+Brazil,0,Netherlands,3,Netherlands
+Germany,1,Argentina,0,Germany
